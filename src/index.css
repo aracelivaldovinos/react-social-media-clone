@@ -11,3 +11,64 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#profile-container{
+  border-style: groove;
+  padding-top: 20%;
+  padding-left: 5%;
+  padding-bottom: 20%;
+}
+
+#profile-desc{
+  border-style: groove;
+  text-align: left;
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-bottom: 20%;
+}
+
+#news-list{
+  border-style: groove;
+  padding-top: 5%;
+}
+
+#nav-bar{
+  margin-top: 20px;
+}
+
+#home{
+  border-style: groove;
+  padding: 10px;
+}
+
+#notifications{
+  border-style: groove;
+  padding: 10px;
+}
+
+#messages{
+  border-style: groove;
+  padding: 10px;
+}
+
+.NavSearch{
+  text-align: right;
+}
+
+#profile-container{
+  background-color: blue;
+}
+
+#profile-picture{
+  border-color: blueviolet;
+  padding-top: 2%;
+}
+
+
+
+
+
+
+
+
+
